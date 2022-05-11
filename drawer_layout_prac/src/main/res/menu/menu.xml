@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <item android:title="menu_home" />
-    <item android:title="menu_menu1" />
-    <item android:title="menu_menu2" />
+    <item
+        android:id="@+id/menu_home"
+        android:title="Home" />
+    <item
+        android:id="@+id/menu_menu1"
+        android:title="Menu1" />
+    <item
+        android:id="@+id/menu_menu2"
+        android:title="Menu2" />
 </menu>
