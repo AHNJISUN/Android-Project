@@ -10,7 +10,7 @@ public class Drawer_Ex01 extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        System.out.println("hi");
+        System.out.println("hello");
         setContentView(R.layout.activity_drawer_ex01);
     }
 }
